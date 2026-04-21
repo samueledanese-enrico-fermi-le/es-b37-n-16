@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.5;
+}
+
+nav {
+    background: #eee;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: rgb(170, 190, 255);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    margin-top: 30px;
+    border-top: 1px solid #ccc;
+    font-size: 0.8em;
+}
